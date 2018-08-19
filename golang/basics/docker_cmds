@@ -1,0 +1,2 @@
+docker build --target builder -t build_stage .
+docker build -t run_stage .
